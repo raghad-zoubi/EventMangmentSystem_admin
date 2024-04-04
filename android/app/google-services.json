@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "580158636960",
+    "project_id": "larapushnati",
+    "storage_bucket": "larapushnati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580158636960:android:8e23482d14f06f5849dac5",
+        "android_client_info": {
+          "package_name": "com.example.event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580158636960-4lvi8l1qgqamlsu2dntud9bi29fk4v1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy2qTAsIEw5xKvfs6XzHC9s7J707__ePc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580158636960-4lvi8l1qgqamlsu2dntud9bi29fk4v1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580158636960:android:d9ffefa9b861620f49dac5",
+        "android_client_info": {
+          "package_name": "com.example.lara_push_noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580158636960-4lvi8l1qgqamlsu2dntud9bi29fk4v1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy2qTAsIEw5xKvfs6XzHC9s7J707__ePc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580158636960-4lvi8l1qgqamlsu2dntud9bi29fk4v1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
